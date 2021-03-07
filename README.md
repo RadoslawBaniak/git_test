@@ -1,0 +1,1 @@
+This is Radoslaw's first git project (through Odin Project)
